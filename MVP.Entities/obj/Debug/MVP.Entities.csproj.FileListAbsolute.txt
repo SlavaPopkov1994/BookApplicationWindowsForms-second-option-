@@ -1,0 +1,5 @@
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Entities\bin\Debug\MVP.Entities.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Entities\bin\Debug\MVP.Entities.pdb
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Entities\obj\Debug\MVP.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Entities\obj\Debug\MVP.Entities.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Entities\obj\Debug\MVP.Entities.pdb

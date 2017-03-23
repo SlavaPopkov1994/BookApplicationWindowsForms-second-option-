@@ -1,0 +1,7 @@
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Views\bin\Debug\MVP.Views.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Views\bin\Debug\MVP.Views.pdb
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Views\bin\Debug\MVP.Entities.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Views\bin\Debug\MVP.Entities.pdb
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Views\obj\Debug\MVP.Views.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Views\obj\Debug\MVP.Views.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Views\obj\Debug\MVP.Views.pdb

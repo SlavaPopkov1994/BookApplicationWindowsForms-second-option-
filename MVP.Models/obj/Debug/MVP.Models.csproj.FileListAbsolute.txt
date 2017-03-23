@@ -1,0 +1,11 @@
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\DatabaseLibrary.mdf
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\DatabaseLibrary_log.ldf
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\MVP.Models.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\MVP.Models.pdb
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\DataBaseLibrary.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\MVP.Entities.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\DataBaseLibrary.pdb
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\bin\Debug\MVP.Entities.pdb
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\obj\Debug\MVP.Models.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\obj\Debug\MVP.Models.dll
+C:\Users\Slavik\Desktop\Проект\Задание2\BookApplicationWindowsForms15\MVP.Models\obj\Debug\MVP.Models.pdb
